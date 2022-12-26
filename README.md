@@ -30,8 +30,9 @@ Step-5. **node src/createDatabase.js** Run this command to store static data int
 
 ## Authors
 
-- [@Bapu-Gouda](https://github.com/bapugouda-biradar)
 - [@Venkatesha](https://github.com/venkateshb007)
+- [@Bapu-Gouda](https://github.com/bapugouda-biradar)
+
 
 ## Acknowledgements
 
