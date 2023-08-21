@@ -1,5 +1,5 @@
 # Almabetter Backend Capstone Project - Get YouTube Subscribers
-In this project, we used Node.js, Express.js and database MongoDB to GET all the subscriber's data from the data base, based on our conditions.  Used Postman to test and modify APIs
+In this project, used Node.js, Express.js and database MongoDB to GET all the subscriber's data from the data base, based on our conditions.  Used Postman to test and modify APIs
 
 <img src="https://1000logos.net/wp-content/uploads/2021/04/YouTube-logo-768x432.png" alt="Alt text" title="Youtube-subscribers">
 
@@ -26,12 +26,11 @@ Step-5. **node src/createDatabase.js** Run this command to store static data int
 
 6. GET http://localhost:3000/anything = when the client use to enter wrong route which is not correct, then they will get an error message  **404 page not found** error status code.
 
-**For Deploying This project** we used **Render flatform**, you can get it by searching in google.
+**For Deploying This project** used **Render flatform**, you can get it by searching in google.
 
 ## Authors
 
 - [@Venkatesha](https://github.com/venkateshb007)
-- [@Bapu-Gouda](https://github.com/bapugouda-biradar)
 
 
 ## Acknowledgements
